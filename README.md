@@ -23,7 +23,7 @@ A football shoe store needs to manage:
 
 ## Entity-Relationship Diagram
 
-![ERD](path/to/erd.png) <!-- TODO: add ERD image -->
+![ERD](image.png) <!-- TODO: add ERD image -->
 
 ### Entities & Relationships
 
